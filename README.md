@@ -1,6 +1,6 @@
 # fossbot-fpga
 
-## TODO: replace everything with command line quartus.
+Hardware description for the fossbot project.
 
 ## Building
 
